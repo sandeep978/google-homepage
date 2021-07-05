@@ -1,0 +1,16 @@
+#nav-bar{
+    text-align: right;
+    
+    padding:10px;
+}
+#main-content{
+    text-align: center;
+    
+    height: auto;
+    padding:250px 0;
+}
+#search-box{
+    border: 1px grey solid;
+    margin: 15px 30%;
+    padding: 20px;
+}
